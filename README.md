@@ -65,7 +65,7 @@ Below are the key commands to run each stage of the pipeline.
 
 
 # How to start
-Unzip the folder and place the unzipped dl_challenge dataset next to the scripts in the src folder. This way you dont need to provide /path/to/data in any commands. Then simply run the commands below starting with training.
+Clone the repo and place the unzipped dl_challenge dataset next to the scripts in the src folder. Then add ./dl_challenge as /path/to/data
 
 
 # Install dependencies
